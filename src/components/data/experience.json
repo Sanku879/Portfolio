@@ -1,0 +1,25 @@
+[
+  {
+    "key": 1,
+    "University_name": "Savitribai Phule Pune University",
+    "Passout_year": "Passout 2023",
+    "Degree": "Computer Engineering",
+    "Percgntage": "CGPA 8.13 CGPA"
+  },
+
+  {
+    "key": 2,
+    "University_name": "K.N.M Gadsing Guruji Junior Collage",
+    "Passout_year": "Passout 2018",
+    "Degree": "HSC",
+    "Percgntage": "Percentage 66.31%"
+  },
+
+  {
+    "key": 3,
+    "University_name": "S.S.D Gange Prashala",
+    "Passout_year": "Passout 2016",
+    "Degree": "SSC",
+    "Percgntage": "Percentage 70.40%"
+  }
+]
