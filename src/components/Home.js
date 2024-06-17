@@ -9,7 +9,7 @@ const Home = () => {
   const typedRef = useRef(null)
   useEffect(() => {
     const options = {
-      strings:["Welcome to my profile","My name is Sanket Adhav","I am computer Engineer","Looking for a job"],
+      strings:["Welcome to my profile","I am Sanket Adhav","I am computer Engineer","Looking for a job"],
       typeSpeed:50,
       backSpeed:50,
       loop:true
